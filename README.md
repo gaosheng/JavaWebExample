@@ -1,5 +1,5 @@
 # JavaWebExample
-整合SpringMVC+Mybatis进行java web开发的demo
+> 整合SpringMVC+Mybatis进行java web开发的demo
 
 * 1.创建数据库和数据表
 
