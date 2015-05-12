@@ -2,6 +2,7 @@
 整合SpringMVC+Mybatis进行java web开发的demo
 
 1.创建数据库和数据表
+
 CREATE TABLE `gaosheng`.`test` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `account` VARCHAR(100) NOT NULL COMMENT '账号',
